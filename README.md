@@ -1,1 +1,1 @@
-# node_sql
+# nodeJS and mySQL
